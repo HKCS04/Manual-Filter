@@ -89,6 +89,8 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 <a href="https://youtu.be/NrbMc93aCzA"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 </p>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HKCS04/Manual-Filter)
+
 ----
 
 <p align="center">
